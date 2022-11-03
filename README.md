@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Poudel</h1>
 <h3 align="center">A web developer</h3>
-<img align= "right" alt= "dinesh coding" width= "400" src= "https://i0.wp.com/i.giphy.com/media/ukMiDlCmdv2og/giphy-downsized.gif?w=770&ssl=1">
+<img align= "center" alt= "dinesh coding" width= "400" src= "https://i0.wp.com/i.giphy.com/media/ukMiDlCmdv2og/giphy-downsized.gif?w=770&ssl=1">
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medineshpoudel" alt="medineshpoudel" /></a> </p>
